@@ -17,6 +17,12 @@ A user just needs to open the integrated terminal in vscode, install the latest 
 
 ## Usage
 
+![alt text](./Assets/pic%201.png)
+
+![alt text](./Assets/pic%202.png)
+
+[Heroku App](https://lets-take-notes-with-express.herokuapp.com/)
+
 Above is a link to the heroku application. 
 
 ## Credits
