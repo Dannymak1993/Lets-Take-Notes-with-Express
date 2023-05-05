@@ -2,7 +2,7 @@
 
 ## Description
 
-This application allows the user to take notes using express. The difference between a normal front end note taking app and this app, is that the use of a server allows the user to save the notes on one device and pull it up on any other device because the app loads the data from the database using the server upon loading. This app allowed me to practice the concepts of routing, backend database/server and front end html communication, and modularization. 
+This application allows the user to take notes using express. The difference between a normal front end note taking app and this app, is that the use of a server allows the user to save the notes on one device and pull it up on any other device because the app loads the data from the database using the server upon loading. This app allowed me to practice the concepts of get/post and delete routes, backend database/server and front end html communication and modularization. 
 
 ## Table of Contents
 
