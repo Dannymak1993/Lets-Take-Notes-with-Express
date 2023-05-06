@@ -13,7 +13,7 @@ router.post('/notes', (req, res) => {
     const savedNotes = db;
     const newNote = {
         title: req.body.title,
-        test: req.body.text,
+        text: req.body.text,
         id: uuidv4()
     };
     console.log(newNote);
